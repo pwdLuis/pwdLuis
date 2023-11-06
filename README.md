@@ -58,7 +58,7 @@
 
 ###
 
-[ align="center"![Louis.PWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwdLuis)](https://github.com/pwdLuis/github-readme-stats)
+[![Louis.PWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwdLuis)](https://github.com/pwdLuis/github-readme-stats)
 
 
 ###
