@@ -58,6 +58,6 @@
 
 ###
 
-<h2 align="center">Stats</h2>
+[![Louis.PWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwdLuis)](https://github.com/pwdLuis/github-readme-stats)
 
 ###
