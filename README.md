@@ -59,9 +59,6 @@
 ###
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=pwdLuis&show_icons=true&theme=radical" target="_blank"> </a>
-
-
 
 
 
