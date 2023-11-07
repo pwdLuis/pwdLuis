@@ -58,7 +58,7 @@
 
 ###
 
-[![Louis.PWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwsLuis&show_icons=true&theme=radical)
+[![Louis.PWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwdLuis&show_icons=true&theme=radical)
 
 
 
