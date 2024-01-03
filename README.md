@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="center">🇧🇷 I'm from Brazil.<br><br>(English)<br>-----------------------------------------------------------------<br>Studying the 1st semester of my Computer Science college.<br><br>Always learning, day after day becoming better than yesterday.<br><br>At the moment, I know a little about JAVA, JS, HTML, CSS, I started with the "portugol" pseudocode because I'm Brazilian and that's how they start teaching here.<br><br>(Português-BR)<br><br>-------------------------------------------------------------------<br><br>🇧🇷 Sou Brasileiro.<br><br>Cursando o 1° semestre da minha faculdade de Ciencias da Computação.<br><br>Aprendendo sempre, dia após dia me tornando melhor que ontem.<br><br>No momento, sei um pouco sobre JAVA, JS, HTML, CSS, comecei no pseudocódigo "portugol" por que sou brasileiro e é assim que começam a ensinar por aqui.</h4>
+<h4 align="center">🇧🇷 I'm from Brazil.<br><br>(English)<br>-----------------------------------------------------------------<br>Studying the 1st semester of Computer Science.<br><br>Always learning, day after day becoming better than yesterday.<br><br>At the moment, I know a little about JAVA, JS, HTML, CSS, I started with the "portugol" pseudocode because I'm Brazilian and that's how they start teaching here.<br><br>(Português-BR)<br><br>-------------------------------------------------------------------<br><br>🇧🇷 Sou Brasileiro.<br><br>Cursando o 1° semestre da faculdade na matéria Ciencias da Computação.<br><br>Aprendendo sempre, dia após dia me tornando melhor que ontem.<br><br>No momento, sei um pouco sobre JAVA, JS, HTML, CSS, comecei no pseudocódigo "portugol" por que sou brasileiro e é assim que começam a ensinar por aqui.</h4>
 
 ###
 
